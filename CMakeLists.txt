@@ -77,7 +77,7 @@ SET( ${PROJECT_NAME}_SRCS
 	./ximapal.cpp
 	./ximapcx.cpp
 	./ximapng.cpp
-	./ximapsd.cpp
+	#./ximapsd.cpp
 	./ximaraw.cpp
 	./ximasel.cpp
 	./ximaska.cpp
@@ -107,7 +107,7 @@ SET( ${PROJECT_NAME}_EXT_HDRS
 	./ximamng.h
 	./ximapcx.h
 	./ximapng.h
-	./ximapsd.h
+	#./ximapsd.h
 	./ximaraw.h
 	./ximaska.h
 	./ximatga.h
